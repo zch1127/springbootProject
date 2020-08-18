@@ -43,7 +43,7 @@ $ npm  install maven
 ```
 
 ## 运行
-
+以下两种方法：
 - 运行`Application.java`类中的Main方法
 
 - 命令启动：mvn spring-boot:run
